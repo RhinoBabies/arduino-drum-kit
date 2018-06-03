@@ -5,3 +5,7 @@ Simple electronic drum kit powered by C and several piezosensors for the drums. 
 *Using Arduino IDE 1.8.5*
 
 ---
+
+**Fritzing layout**
+
+![Arduino, breadboard, and connections](https://github.com/RhinoBabies/arduino-drum-kit/blob/master/adk_bb.png)
